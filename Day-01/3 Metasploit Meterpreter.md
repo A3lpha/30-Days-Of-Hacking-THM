@@ -88,4 +88,4 @@ cat 'C:\Program Files (x86)\Windows Multimedia Platform\secrets.txt'
 ![](img/realsecret.png)
 `The Flash is the fastest man alive`
 
-![Room2 complete](room2.png)
+![Room2 complete](img/room2.png)
