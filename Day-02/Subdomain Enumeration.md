@@ -41,4 +41,4 @@ IP: 10.10.233.77
 `delta`
 #### What is the second subdomain discovered?
 `yellow`
-![](img/room1)
+![](img/room1.png)
