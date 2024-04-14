@@ -36,11 +36,9 @@ IP: 10.10.233.77
 ![](img/web55.png)
 `web55.acmeitsupport.thm`
 ## Task 6Virtual Hosts
-![](acme.png)
+![](img/acme.png)
 #### What is the first subdomain discovered?
 `delta`
 #### What is the second subdomain discovered?
 `yellow`
-
-
 ![](img/room1)
