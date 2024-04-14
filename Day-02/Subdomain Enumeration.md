@@ -1,6 +1,6 @@
 ---
 name:
-  - machine1
+  - Subdomain Enumeration
 Date: 14 April 2024
 Platform: web
 Category: paid
@@ -37,6 +37,7 @@ IP: 10.10.233.77
 `web55.acmeitsupport.thm`
 ## Task 6Virtual Hosts
 ![](img/acme.png)
+![](img/yellow.png)
 #### What is the first subdomain discovered?
 `delta`
 #### What is the second subdomain discovered?
