@@ -83,7 +83,8 @@ Nmap done: 1 IP address (1 host up) scanned in 71.05 seconds
 
 ```
 
-![](img/8080.png)
+![](img/script.png)
+![](img/groovy.png)
 
 
 ![](img/user_flag.png)
